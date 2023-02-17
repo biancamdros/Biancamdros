@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello world!<br><br>Atualmente estou estudante de Sistemas de Informação, no 7º período da UFRN Ceres Caicó.<br>Me identifico bastante com a parte de programação Front-End e tenho grande afinidade pela área de Segurança da Infomação.<br><br>Sinta-se à vontade para ver os meus projetos acadêmicos e pessoais. 
 
 
